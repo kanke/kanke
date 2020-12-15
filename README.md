@@ -1,4 +1,4 @@
-![](https://i.imgur.com/9JqC30n.png)
+![](https://i.imgur.com/AEDUZmb.png)
 
 I am a London based Software Engineer with over 8 experience. I enjoy building, tinkering and having fun with Tech
 
