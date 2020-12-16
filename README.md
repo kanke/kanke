@@ -9,7 +9,7 @@ Skills: JAVA / REACT / JS / HTML / CSS
 - 😄 Pronouns: She/Her 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kanke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kanke/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sugarkanke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4743242/kanke)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='20' height='20'>](https://github.com/kanke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/kanke/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='20' height='20'>](https://twitter.com/sugarkanke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' width='20' height='20'>](https://stackoverflow.com/users/4743242/kanke)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanke)](https://github.com/anuraghazra/github-readme-stats)
 
