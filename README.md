@@ -2,9 +2,9 @@
 
 I am a London based Software Engineer with over 10 years experience. I enjoy building, tinkering and having fun with Tech
 
-[Talks](https://www.notion.so/6883d7efc098410f80b0afdece028f6a?v=690b96af3d3041bab1555cad7482ecd1)
+:microphone:[Talks](https://www.notion.so/6883d7efc098410f80b0afdece028f6a?v=690b96af3d3041bab1555cad7482ecd1)
 
-[Hackathons](https://devpost.com/kaykayIS)
+:computer:[Hackathons](https://devpost.com/kaykayIS)
 
 Skills: JAVA / REACT / JS / HTML / CSS
 
