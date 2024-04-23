@@ -8,7 +8,7 @@ I enjoy building, tinkering and having fun with all things Technology :sparkling
 
 :microphone: [Talks](https://kanke.notion.site/6883d7efc098410f80b0afdece028f6a?v=690b96af3d3041bab1555cad7482ecd1) &nbsp;&nbsp;&nbsp;&nbsp; :computer: [Hackathons](https://devpost.com/kaykayIS) &nbsp;&nbsp;&nbsp;&nbsp; 📄 [CV](https://drive.google.com/file/d/1aH81u6M3bKNN41dvokNy3MWqb2ty6DgR/view?usp=sharing)
 
-🌱 I’m currently learning Redux/React JS 
+🌱 I’m currently learning TypeScript
 
 📫 How to reach me: kanke.ishaku@live.com
 
@@ -48,11 +48,13 @@ I enjoy building, tinkering and having fun with all things Technology :sparkling
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanke) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanke&theme=radical) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kanke)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kanke&theme=radical)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kanke&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <a href="https://komarev.com/ghpvc/?username=kanke">
-  <img align="right" src="https://komarev.com/ghpvc/?username=kanke&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=kanke&label=Visitors&color=ff69b4&style=plastic" alt="Profile visitor" />
 </a>
