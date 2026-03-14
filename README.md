@@ -1,7 +1,7 @@
 ![](https://imgur.com/uLl8MDK.png)
 <div align="center" style="font-family: Georgia; font-size: 2em;">
-I am a London based Senior Software Engineer with over 10 years experience and expertise in Cloud Computing. 
-I enjoy building, tinkering and having fun with all things Technology :sparkling_heart:  <br/>  <br/>  
+Senior Software Engineer based in London with 10+ years experience across cloud infrastructure, full-stack development, and AI.
+I enjoy building, tinkering, and having fun with all things technology — from large-scale cloud systems to weekend hackathon projects. :sparkling_heart:  <br/>  <br/>  
   
 
 
@@ -48,9 +48,6 @@ I enjoy building, tinkering and having fun with all things Technology :sparkling
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanke&theme=radical) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kanke&theme=radical)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanke&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 <a href="https://komarev.com/ghpvc/?username=kanke">
   <img align="right" src="https://komarev.com/ghpvc/?username=kanke&label=Visitors&color=ff69b4&style=plastic" alt="Profile visitor" />
